@@ -3,4 +3,4 @@ SELECT "HELLO"
 
 -- COMMAND ----------
 
-
+SELECT "Change to Notebook"
