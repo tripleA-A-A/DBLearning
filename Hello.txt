@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HelloMefgeWorld, I hope everyone is good
+=======
+Hello WorMergeConflictld, I hope everyone is good. Changes will be made. How do I merge them?
+>>>>>>> origin/Dev
